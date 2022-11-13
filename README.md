@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="public/images/logo/foodie_no_bg_2.png" width="400"></a></p>
+<p align="center"><img src="public/images/logo/foodie_no_bg_2.png" width="400"></p>
 
 <h1 align="center"> Foodie - by Team AlgoRhythm </h1>
 
