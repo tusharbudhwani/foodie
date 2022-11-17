@@ -5,6 +5,7 @@
 <hr>
 
 ## About Foodie
+<a href="https://www.linkedin.com/posts/tusharbudhwani_hackathon-tsec-csi-activity-6892707268379373568-lW1W/">Link to video</a>
 
 Foodie is a Versatile Food Management System For Efficient Expiration Date Tracking, Food Recommendation and Obtaining Recipes.
 
